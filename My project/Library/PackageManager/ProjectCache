@@ -77,12 +77,23 @@ m_ResolvedPackages:
     - 1.14.7
     - 1.14.9
     - 1.14.12
+    - 1.14.13
+    - 1.14.15
+    - 1.14.16
+    - 1.14.17
+    - 1.14.18
     - 1.15.1
     - 1.15.4
     - 1.15.7
     - 1.15.9
     - 1.15.12
+    - 1.15.13
+    - 1.15.15
+    - 1.15.16
+    - 1.15.17
     - 1.15.18
+    - 1.17.0
+    - 1.17.1
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -95,6 +106,8 @@ m_ResolvedPackages:
     - 2.1.0-preview.6
     compatible:
     - 1.15.18
+    - 1.17.0
+    - 1.17.1
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -288,6 +301,8 @@ m_ResolvedPackages:
     - 3.0.9
     - 3.0.10
     - 3.0.12
+    - 3.0.13
+    - 3.0.14
     - 3.0.15
     compatible:
     - 3.0.15
@@ -358,6 +373,7 @@ m_ResolvedPackages:
     - 2.0.11
     - 2.0.12
     - 2.0.14
+    - 2.0.15
     - 2.0.16
     compatible:
     - 2.0.16
@@ -509,10 +525,12 @@ m_ResolvedPackages:
     - 1.1.29
     - 1.1.30
     - 1.1.31
+    - 2.0.1-exp.1
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     compatible:
     - 1.1.31
+    - 2.0.1-exp.1
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     verified: 1.1.31
@@ -654,6 +672,7 @@ m_ResolvedPackages:
     - 2.1.6
     - 2.2.0-preview.1
     - 2.2.0-preview.2
+    - 2.2.0-preview.3
     - 3.0.0-preview.1
     - 3.0.0-preview.3
     - 3.0.0-preview.4
@@ -673,11 +692,13 @@ m_ResolvedPackages:
     - 3.0.6
     - 3.2.0-pre.1
     - 3.2.0-pre.2
+    - 3.2.0-pre.3
     - 4.0.0-pre.1
     compatible:
     - 3.0.6
     - 3.2.0-pre.1
     - 3.2.0-pre.2
+    - 3.2.0-pre.3
     verified: 3.0.6
   dependencies:
   - name: com.unity.ugui
@@ -806,10 +827,14 @@ m_ResolvedPackages:
     - 1.6.4
     - 1.7.0-pre.1
     - 1.7.0-pre.2
+    - 1.7.0
+    - 1.7.1
     compatible:
     - 1.6.4
     - 1.7.0-pre.1
     - 1.7.0-pre.2
+    - 1.7.0
+    - 1.7.1
     verified: 1.6.4
   dependencies:
   - name: com.unity.modules.director
@@ -2969,6 +2994,8 @@ m_ResolvedPackages:
     - 1.2.0-exp.3
     - 1.2.0-exp.4
     - 1.2.0-exp.5
+    - 1.2.0-exp.6
+    - 1.2.0-exp.7
     compatible:
     - 1.0.1
     - 1.1.0
@@ -2978,6 +3005,8 @@ m_ResolvedPackages:
     - 1.2.0-exp.3
     - 1.2.0-exp.4
     - 1.2.0-exp.5
+    - 1.2.0-exp.6
+    - 1.2.0-exp.7
     verified: 1.0.1
   dependencies:
   - name: com.unity.test-framework
